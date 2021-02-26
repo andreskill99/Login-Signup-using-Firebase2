@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LogFirebase</string>
+    <string name="cerrar_sesion">Cerrar Sesion</string>
+    <string name="facebook_app_id">131701802179523</string>
+    <string name="fb_login_protocol_scheme">fb131701802179523</string>
+
+</resources>
